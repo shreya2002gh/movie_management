@@ -1,1 +1,1 @@
-# movie_management
+THIS IS A MOVIE MANAGEMENT PROJECT # movie_management
